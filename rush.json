@@ -1,0 +1,10 @@
+{
+  "rushVersion": "4.1.0",
+  "npmVersion": "5.6.0",
+  "projects": [
+    {
+      "packageName": "seed-lib",
+      "projectFolder": "seed-lib"
+    }
+  ]
+}

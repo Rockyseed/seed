@@ -1,0 +1,10 @@
+.DS_Store
+
+common/temp
+node_modules
+
+dist
+lib
+temp
+
+.idea
