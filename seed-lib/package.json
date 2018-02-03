@@ -2,6 +2,9 @@
   "name": "seed-lib",
   "version": "0.1.0",
   "author": "Su Su <s@warmsea.net>",
+  "scripts": {
+    "build": "gulp --clean"
+  },
   "devDependencies": {
     "@microsoft/web-library-build": "^4.2.16",
     "@types/react": "^16.0.34",

@@ -1,10 +1,11 @@
 .DS_Store
 
-common/temp
-node_modules
+.idea
 
 dist
 lib
+node_modules
 temp
 
-.idea
+package-deps.json
+*.log
