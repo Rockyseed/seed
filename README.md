@@ -2,6 +2,15 @@
 
 ## Development
 
+### Knowledge
+
+To develop **SEED**, knowledge on the following stuff are required:
+
+1. Git and [GitHub](https://github.com/). You'll also need a GitHub
+   account to push your code.
+2. JavaScript and [TypeScript](http://www.typescriptlang.org/).
+3. [React](https://reactjs.org/).
+
 ### Build Source Code
 
 The following tools are required to get the sources, build and develop
