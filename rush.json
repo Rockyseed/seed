@@ -1,6 +1,7 @@
 {
-  "rushVersion": "4.1.0",
-  "npmVersion": "5.6.0",
+  "rushVersion": "4.2.5",
+  "pnpmVersion": "1.33.2",
+  "nodeSupportedVersionRange": ">=6.9.0 < 7.0.0 || >=8.9.4 <9.0.0",
   "projects": [
     {
       "packageName": "seed-lib",
