@@ -8,7 +8,8 @@
   "devDependencies": {
     "@microsoft/web-library-build": "^4.2.16",
     "@types/react": "^16.0.34",
-    "@types/react-dom": "^16.0.3"
+    "@types/react-dom": "^16.0.3",
+    "typescript": "^2.7.2"
   },
   "dependencies": {
     "jquery": "^3.2.1",

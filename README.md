@@ -26,10 +26,7 @@ The following tools are required to get the sources, build and develop
 4. [Gulp](https://gulpjs.com/). You can install it with NPM:
    `npm install --global gulp-cli`, or follow the instructions from the
    official site.
-5. [TypeScript](http://www.typescriptlang.org/). You can install it with
-   NPM: `npm install --global typescript`, or follow the instructions
-   from the official site.
-6. (Optionally) your favorite editor or IDE. E.g.,
+5. (Optionally) your favorite editor or IDE. E.g.,
    [WebStorm](https://www.jetbrains.com/webstorm/) or
    [Visual Studio Code](https://code.visualstudio.com/).
 
@@ -38,7 +35,8 @@ To build **Seed**:
 1. Clone the **Seed** with your favorite Git client.
 2. Go to the root folder of **SEED**, where you can find a
    `rush.json` file.
-3. Install dependencies with the Rush: `rush install`.
+3. Install dependencies with the Rush: `rush install`. If you changed
+   the dependencies, run `rush generate` instead.
 4. And then run `rush rebuild`. This will build (or rebuild) all
    projects in **Seed**.
 
@@ -54,7 +52,7 @@ To start the workbench:
 2. Run `gulp serve` to start serve the workbench.
 3. A browser window should be automatically opened for you. You can also
    choose to open
-   [http://localhost:4321/index.html](http://localhost:4321/index.html)
+   [http://localhost:4321/workbench/index.html](http://localhost:4321/workbench/index.html)
    in any browser you like.
 4. To stop serve the workbench, press `Ctrl+C` in the command window
    where you started it.
